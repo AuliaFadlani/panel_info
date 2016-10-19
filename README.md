@@ -34,5 +34,5 @@ how to use:
        end;
 
     video:
-      http://www.youtube.com/
+      https://www.youtube.com/watch?v=_E-E3rBEetU
       
