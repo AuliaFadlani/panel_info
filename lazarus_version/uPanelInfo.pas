@@ -1,4 +1,4 @@
-unit uPanelInfo;
+ unit uPanelInfo;
 
 interface
 
@@ -256,8 +256,7 @@ begin
       PanelName.Left := (komponen.Left + komponen.Width) + komponen.Parent.Left;
 
     if Position = 'LEFT' then
-      PanelName.Left := PanelName.Left - komponen.Width - 5;
-  end;
+      PanelName.Left := PanelName.Left - komponen.Width - 5;  end;
 
   SetWindowRgn(PanelName.Handle, CreatePolygonRgn(Points, 3, WINDING), True);
   PanelName.Show;
