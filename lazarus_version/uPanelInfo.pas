@@ -288,7 +288,7 @@ begin
     begin
       Enabled := False;
       Interval := 1000;
-      OnTimer := @RunTimer; // pada saat OnTimer, maka memanggil procedure Timer1Timer
+      OnTimer := @RunTimer; // pada saat OnTimer, maka memanggil procedure RunTimer
     end;
 
     Counter := 0;
