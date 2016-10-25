@@ -1,3 +1,5 @@
+![dfsdf](https://cloud.githubusercontent.com/assets/22923154/19686999/49d07dda-9af6-11e6-8c62-c2663392cd4d.jpg)
+
 Source code file "uPanelInfo.pas" ini bisa dimodifikasi secara bebas sesuai dengan keperluan Anda.
 Jika terjadi sesuatu dengan project Anda setelah menggunakan file "uPanelInfo.pas" bukanlah tanggung jawab Saya, 
 resiko ditanggung sendiri.
